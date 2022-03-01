@@ -1,0 +1,10 @@
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\a2窗体应用\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\a2窗体应用\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\a2窗体应用\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\a2窗体应用\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\a2窗体应用\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\a2窗体应用\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\a2窗体应用\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\a2窗体应用\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\a2窗体应用\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\a2窗体应用\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

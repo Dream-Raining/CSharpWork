@@ -1,0 +1,7 @@
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\Text 2-20\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\Text 2-20\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\Text 2-20\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\Text 2-20\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\Text 2-20\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\Text 2-20\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\WH\AppData\One Drive\OneDrive\桌面\C#\Text 2-20\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
